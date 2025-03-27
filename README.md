@@ -8,4 +8,4 @@ HTML
 JS 
 VS Code 
 
-Do feel free to make change and ping me on any blunders i've made.
+Do feel free to make changes and ping me on any blunders i've made.
